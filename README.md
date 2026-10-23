@@ -17,6 +17,10 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 ## Apps and games
 
+- **[Mem-Mem](https://github.com/VincentAZ/Mem-Mem)** · [Google Play](https://play.google.com/store/apps/details?id=io.github.vincentaz.memmem)<br>
+  A matching game for grown-ups: no timer, no lives, no pressure. Flip cards, find the pairs and collect 56 characters at your own pace. Godot 4 and GDScript, no account, no analytics. MIT.
+- **[parlor-puzzles](https://github.com/VincentAZ/parlor-puzzles)**<br>
+  Parlor Puzzles: twelve classic logic puzzles in one calm Android app. Kotlin, Jetpack Compose and Room; every level ships with a verified solution and your progress never leaves the phone. MIT.
 - **[familywatchlist](https://github.com/VincentAZ/familywatchlist)** · [familywatchlist.tv](https://www.familywatchlist.tv)<br>
   Shared TV & movie watchlist for households — Next.js, Supabase, Stripe subscriptions, metered AI credits, multi-provider AI assistant. MIT.
 - **[dino-pals](https://github.com/VincentAZ/dino-pals)** · [play it](https://dino-pals-ai-learning-center.vercel.app)<br>
