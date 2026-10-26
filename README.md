@@ -6,7 +6,7 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 ## Runs on your own computer
 
-- **[Desktop Buddy](https://github.com/VincentAZ/LinuxHarness)**<br>
+- **[Desktop Buddy](https://github.com/VincentAZ/Desktop-Buddy)**<br>
   Tell your Linux desktop what you want done. A native, local-first AI assistant for GNOME that works with files, apps, browsers, terminals, images and your screen—with your choice of cloud or local model.
 - **[prompt-maker](https://github.com/VincentAZ/prompt-maker)**<br>
   Say what you want to see, in plain words, and get pictures and videos made on your own computer. It writes the prompt each model likes, keeps the same person from shot to shot and gives them a voice. Nothing leaves your machine unless you opt in, and it's free.
