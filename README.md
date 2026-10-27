@@ -6,6 +6,8 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 ## Runs on your own computer
 
+- **[Pulse](https://github.com/VincentAZ/pulse-monitor)**<br>
+  Mission Center and nvtop in one window. A native GTK 4 system and GPU monitor for Linux: CPU, memory, disks, network, every GPU and every process touching a GPU, read straight from the kernel. Mounts drives from the disk page, no daemons, nothing leaves your machine. MIT.
 - **[Desktop Buddy](https://github.com/VincentAZ/Desktop-Buddy)**<br>
   Tell your Linux desktop what you want done. A native, local-first AI assistant for GNOME that works with files, apps, browsers, terminals, images and your screen—with your choice of cloud or local model.
 - **[prompt-maker](https://github.com/VincentAZ/prompt-maker)**<br>
