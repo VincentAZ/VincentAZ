@@ -23,7 +23,7 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 - **[Crave](https://github.com/VincentAZ/crave-restaurant-finder)** · [try it](https://crave-restaurant-finder.vercel.app)<br>
   Rate a few dishes, enter your ZIP code, and find nearby restaurants on a map. Search by distance or estimated drive time, edit your food choices, and check source-backed local ownership badges. No visitor account or API key required.
-- **[familywatchlist](https://github.com/VincentAZ/familywatchlist)** · [familywatchlist.tv](https://www.familywatchlist.tv)<br>
+- **[familywatchlist](https://github.com/VincentAZ/familywatchlist)** · [try it](https://www.familywatchlist.tv)<br>
   Shared TV & movie watchlist for households — Next.js, Supabase, Stripe subscriptions, metered AI credits, multi-provider AI assistant. MIT.
 
 ## Games
