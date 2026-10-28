@@ -21,6 +21,8 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 ## Apps and games
 
+- **[Crave](https://github.com/VincentAZ/crave-restaurant-finder)** · [try it](https://crave-restaurant-finder.vercel.app)<br>
+  Rate a few dishes, enter your ZIP code, and find nearby restaurants on a map. Search by distance or estimated drive time, edit your food choices, and check source-backed local ownership badges. Requires your own Geoapify API key.
 - **[Mem-Mem](https://github.com/VincentAZ/Mem-Mem)** · [Google Play](https://play.google.com/store/apps/details?id=io.github.vincentaz.memmem)<br>
   A matching game for grown-ups: no timer, no lives, no pressure. Flip cards, find the pairs and collect 56 characters at your own pace. Godot 4 and GDScript, no account, no analytics. MIT.
 - **[parlor-puzzles](https://github.com/VincentAZ/parlor-puzzles)**<br>
