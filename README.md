@@ -10,6 +10,8 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
   Mission Center and nvtop in one window. A native GTK 4 system and GPU monitor for Linux: CPU, memory, disks, network, every GPU and every process touching a GPU, read straight from the kernel. Mounts drives from the disk page, no daemons, nothing leaves your machine. MIT.
 - **[Desktop Buddy](https://github.com/VincentAZ/Desktop-Buddy)**<br>
   Tell your Linux desktop what you want done. A native, local-first AI assistant for GNOME that works with files, apps, browsers, terminals, images and your screen—with your choice of cloud or local model.
+- **[Digital Human Studio](https://github.com/VincentAZ/DigitalHumanStudio)**<br>
+  Give your character a direction. Build a performance. A local Linux studio for directing virtual humans with AI, composing reusable motion skills, and generating movement from text. NVIDIA Isaac Sim, skinned characters, and your choice of local or cloud assistant.
 - **[prompt-maker](https://github.com/VincentAZ/prompt-maker)**<br>
   Say what you want to see, in plain words, and get pictures and videos made on your own computer. It writes the prompt each model likes, keeps the same person from shot to shot and gives them a voice. Nothing leaves your machine unless you opt in, and it's free.
 - **[NewsletterCreator](https://github.com/VincentAZ/NewsletterCreator)** · [latest release](https://github.com/VincentAZ/NewsletterCreator/releases/latest)<br>
