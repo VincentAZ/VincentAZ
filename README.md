@@ -4,6 +4,8 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 **Work with me:** [serpico.ai](https://serpico.ai) · [LinkedIn](https://www.linkedin.com/in/vincentserpico)
 
+This is my personal app showcase. **The original code in all 13 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
+
 ## Runs on your own computer
 
 - **[Pulse](https://github.com/VincentAZ/pulse-monitor)**<br>
