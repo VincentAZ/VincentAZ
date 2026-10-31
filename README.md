@@ -25,7 +25,7 @@ This is my personal app showcase. **The original code in all 14 apps below is MI
 
 ## Web apps
 
-- **[StackWorks](https://github.com/VincentAZ/SWFactory2)** · [try it](https://stackworks-dusky.vercel.app)<br>
+- **[StackWorks](https://github.com/VincentAZ/SWFactory2)** · [try it](https://www.stackworksai.tech/)<br>
   How software works, as a 3D machine you can walk around, take apart and run. Seventeen stations connected by glass pipes, eight animated scenarios, a decision lab, and a blueprint builder that writes the build brief to hand your AI coding assistant. Built for nontechnical founders. No backend, no tracking. MIT.
 - **[Crave](https://github.com/VincentAZ/crave-restaurant-finder)** · [try it](https://crave-restaurant-finder.vercel.app)<br>
   Rate a few dishes, enter your ZIP code, and find nearby restaurants on a map. Search by distance or estimated drive time, edit your food choices, and check source-backed local ownership badges. No visitor account or API key required.
