@@ -4,7 +4,7 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 **Work with me:** [serpico.ai](https://serpico.ai) · [LinkedIn](https://www.linkedin.com/in/vincentserpico)
 
-This is my personal app showcase. **The original code in all 13 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
+This is my personal app showcase. **The original code in all 14 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
 
 ## Runs on your own computer
 
@@ -25,6 +25,8 @@ This is my personal app showcase. **The original code in all 13 apps below is MI
 
 ## Web apps
 
+- **[StackWorks](https://github.com/VincentAZ/SWFactory2)** · [try it](https://stackworks-dusky.vercel.app)<br>
+  How software works, as a 3D machine you can walk around, take apart and run. Seventeen stations connected by glass pipes, eight animated scenarios, a decision lab, and a blueprint builder that writes the build brief to hand your AI coding assistant. Built for nontechnical founders. No backend, no tracking. MIT.
 - **[Crave](https://github.com/VincentAZ/crave-restaurant-finder)** · [try it](https://crave-restaurant-finder.vercel.app)<br>
   Rate a few dishes, enter your ZIP code, and find nearby restaurants on a map. Search by distance or estimated drive time, edit your food choices, and check source-backed local ownership badges. No visitor account or API key required.
 - **[familywatchlist](https://github.com/VincentAZ/familywatchlist)** · [try it](https://www.familywatchlist.tv)<br>
