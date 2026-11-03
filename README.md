@@ -4,7 +4,7 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 **Work with me:** [serpico.ai](https://serpico.ai) · [LinkedIn](https://www.linkedin.com/in/vincentserpico)
 
-This is my personal app showcase. **The original code in all 14 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
+This is my personal app showcase. **The original code in all 15 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
 
 ## Runs on your own computer
 
@@ -29,6 +29,8 @@ This is my personal app showcase. **The original code in all 14 apps below is MI
   How software works, as a 3D machine you can walk around, take apart and run. Seventeen stations connected by glass pipes, eight animated scenarios, a decision lab, and a blueprint builder that writes the build brief to hand your AI coding assistant. Built for nontechnical founders. No backend, no tracking. MIT.
 - **[Crave](https://github.com/VincentAZ/crave-restaurant-finder)** · [try it](https://crave-restaurant-finder.vercel.app)<br>
   Rate a few dishes, enter your ZIP code, and find nearby restaurants on a map. Search by distance or estimated drive time, edit your food choices, and check source-backed local ownership badges. No visitor account or API key required.
+- **[Salad and Go Takeover Map](https://github.com/VincentAZ/salad-n-go)** · [try it](https://salad-n-go.vercel.app)<br>
+  Which Phoenix-area Salad and Go is turning into 7 Brew, Swig, Dutch Bros or something else? Every location on one map, with brand filters, a find-the-closest button and a guess-the-takeover game. Vite and Leaflet, no backend. MIT.
 - **[familywatchlist](https://github.com/VincentAZ/familywatchlist)** · [try it](https://www.familywatchlist.tv)<br>
   Shared TV & movie watchlist for households — Next.js, Supabase, Stripe subscriptions, metered AI credits, multi-provider AI assistant. MIT.
 
