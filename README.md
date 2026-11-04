@@ -4,9 +4,12 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 **Work with me:** [serpico.ai](https://serpico.ai) · [LinkedIn](https://www.linkedin.com/in/vincentserpico)
 
-This is my personal app showcase. **The original code in all 15 apps below is MIT-licensed.** Use it, change it, or build a business with it. Keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
+This is my personal app showcase. **The original code in the apps below is MIT-licensed, except [Heretic Studio](https://github.com/VincentAZ/Heretic) which is AGPL-3.0-or-later in compliance with upstream [p-e-w/heretic](https://github.com/p-e-w/heretic).** Use it, change it, or build with it under each repository's license, and keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
 
 ## Runs on your own computer
+
+- **[Heretic Studio](https://github.com/VincentAZ/Heretic)**<br>
+  Modify language models on your own GPU—without training, and without living in a terminal. A local desktop studio built atop [p-e-w/heretic](https://github.com/p-e-w/heretic) for refusal suppression, slop removal, anti-sycophancy steering, live Optuna Pareto frontiers, layer ablation kernel plots, two-way `config.toml` editing, custom Python scorer plugins, and reproducible Grimoire manifests. AGPL-3.0-or-later.
 
 - **[Pulse](https://github.com/VincentAZ/pulse-monitor)**<br>
   Mission Center and nvtop in one window. A native GTK 4 system and GPU monitor for Linux: CPU, memory, disks, network, every GPU and every process touching a GPU, read straight from the kernel. Mounts drives from the disk page, no daemons, nothing leaves your machine. MIT.
