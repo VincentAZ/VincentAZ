@@ -41,7 +41,7 @@ This is my personal app showcase. **The original code in the apps below is MIT-l
 
 - **[Mem-Mem](https://github.com/VincentAZ/Mem-Mem)** · Android · [Google Play](https://play.google.com/store/apps/details?id=io.github.vincentaz.memmem)<br>
   A matching game for grown-ups: no timer, no lives, no pressure. Flip cards, find the pairs and collect 56 characters at your own pace. Godot 4 and GDScript, no account, no analytics. MIT.
-- **[parlor-puzzles](https://github.com/VincentAZ/parlor-puzzles)** · Android<br>
+- **[parlor-puzzles](https://github.com/VincentAZ/parlor-puzzles)** · Android · [Google Play](https://play.google.com/store/apps/details?id=com.parlor.puzzles)<br>
   Parlor Puzzles: twelve classic logic puzzles in one calm Android app. Kotlin, Jetpack Compose and Room; every level ships with a verified solution and your progress never leaves the phone. MIT.
 - **[dino-pals](https://github.com/VincentAZ/dino-pals)** · Web / iPad · [play it](https://dino-pals-ai-learning-center.vercel.app)<br>
   Dino Pals: open-world dinosaur sandbox for a 3-year-old (iPad web app)
