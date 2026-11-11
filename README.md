@@ -15,6 +15,8 @@ This is my personal app showcase. **The original code in the apps below is MIT-l
   Mission Center and nvtop in one window. A native GTK 4 system and GPU monitor for Linux: CPU, memory, disks, network, every GPU and every process touching a GPU, read straight from the kernel. Mounts drives from the disk page, no daemons, nothing leaves your machine. MIT.
 - **[Desktop Buddy](https://github.com/VincentAZ/Desktop-Buddy)**<br>
   Tell your Linux desktop what you want done. A native, local-first AI assistant for GNOME that works with files, apps, browsers, terminals, images and your screen—with your choice of cloud or local model.
+- **[Scene Maker](https://github.com/VincentAZ/scene-maker)**<br>
+  Cast it, stage it, let them talk, hit record. A local 3D studio where 120+ realistic characters walk real sets, sit, pick things up and hold AI-driven conversations with each other, each on its own model. Records MP4s and exports to Blender and Unreal. MIT.
 - **[Digital Human Studio](https://github.com/VincentAZ/DigitalHumanStudio)**<br>
   Give your character a direction. Build a performance. A local Linux studio for directing virtual humans with AI, composing reusable motion skills, and generating movement from text. NVIDIA Isaac Sim, skinned characters, and your choice of local or cloud assistant.
 - **[prompt-maker](https://github.com/VincentAZ/prompt-maker)**<br>
