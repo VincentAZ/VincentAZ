@@ -30,7 +30,7 @@ This is my personal app showcase. **The original code in the apps below is MIT-l
 
 ## Web apps
 
-- **[Urban Planning](https://github.com/VincentAZ/urban-planning)**<br>
+- **[Urban Planning](https://github.com/VincentAZ/urban-planning)** · [watch the demo](https://github.com/VincentAZ/urban-planning/releases/download/demo-2026-11/urban-planning-demo.mp4)<br>
   Type a ZIP code, change the city, see what happens. A browser digital twin for planners and economic developers: drop a building or re-stripe a street in 3D and watch homes, jobs, trips, flood exposure and commute sheds respond, with one-click SUMO rush-hour traffic on the real street network. Every number shows its formula and sources. Free. MIT.
 - **[StackWorks](https://github.com/VincentAZ/StackWorks)** · [try it](https://www.stackworksai.tech/)<br>
   How software works, as a 3D machine you can walk around, take apart and run. Seventeen stations connected by glass pipes, eight animated scenarios, a decision lab, and a blueprint builder that writes the build brief to hand your AI coding assistant. Built for nontechnical founders. No backend, no tracking. MIT.
