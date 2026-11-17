@@ -4,7 +4,7 @@ I'm the founder and lead engineer of [Serpico AI](https://serpico.ai) in Phoenix
 
 **Work with me:** [serpico.ai](https://serpico.ai) · [LinkedIn](https://www.linkedin.com/in/vincentserpico)
 
-This is my personal app showcase. **The original code in the apps below is MIT-licensed, except [Heretic Studio](https://github.com/VincentAZ/Heretic) which is AGPL-3.0-or-later in compliance with upstream [p-e-w/heretic](https://github.com/p-e-w/heretic).** Use it, change it, or build with it under each repository's license, and keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
+This is my personal app showcase. **Most original code in the apps below is MIT-licensed. Exceptions: [Heretic Studio](https://github.com/VincentAZ/Heretic) is AGPL-3.0-or-later in compliance with upstream [p-e-w/heretic](https://github.com/p-e-w/heretic), and [GNOME Text Editor Enhanced](https://github.com/VincentAZ/gnome-text-editor-enhanced) is GPL-3.0-or-later, following upstream [GNOME Text Editor](https://gitlab.gnome.org/GNOME/gnome-text-editor).** Use it, change it, or build with it under each repository's license, and keep the copyright and license notices. Third-party models, assets, dependencies, and hosted services can have separate terms; see each repository for details.
 
 ## Runs on your own computer
 
@@ -15,6 +15,8 @@ This is my personal app showcase. **The original code in the apps below is MIT-l
   Mission Center and nvtop in one window. A native GTK 4 system and GPU monitor for Linux: CPU, memory, disks, network, every GPU and every process touching a GPU, read straight from the kernel. Mounts drives from the disk page, no daemons, nothing leaves your machine. MIT.
 - **[Desktop Buddy](https://github.com/VincentAZ/Desktop-Buddy)**<br>
   Tell your Linux desktop what you want done. A native, local-first AI assistant for GNOME that works with files, apps, browsers, terminals, images and your screen—with your choice of cloud or local model.
+- **[GNOME Text Editor Enhanced](https://github.com/VincentAZ/gnome-text-editor-enhanced)**<br>
+  Edit text and preview Markdown, JSON and JSONL locally in the same native GNOME app. Switch between Source, Preview and Split View, explore collapsible JSON trees, and format JSON with undo. Based on GNOME Text Editor 50.1; GPL-3.0-or-later. Build instructions, known limits and update/rollback notes are in the repository.
 - **[Scene Maker](https://github.com/VincentAZ/scene-maker)**<br>
   Cast it, stage it, let them talk, hit record. A local 3D studio where 120+ realistic characters walk real sets, sit, pick things up and hold AI-driven conversations with each other, each on its own model. Records MP4s and exports to Blender and Unreal. MIT.
 - **[Digital Human Studio](https://github.com/VincentAZ/DigitalHumanStudio)**<br>
