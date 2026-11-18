@@ -53,3 +53,5 @@ This is my personal app showcase. **Most original code in the apps below is MIT-
   Dino Pals: open-world dinosaur sandbox for a 3-year-old (iPad web app)
 - **[battle-of-the-old-west](https://github.com/VincentAZ/battle-of-the-old-west)** · Desktop<br>
   Battle of the Old West: a two-player Western card battle built in Unreal Engine
+- **[Ashmarket](https://github.com/VincentAZ/Ashmarket)** · Desktop · 🚧 **work in progress**<br>
+  An early prototype of a third-person action RPG in Unreal Engine 5, set in a desert market town where everything, people included, has a price. Fight in the Gut, bet at the window or run a stable of fighters. Not playable from the repository yet. Adults only.
